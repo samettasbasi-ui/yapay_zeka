@@ -1,0 +1,2 @@
+# yapay_zeka
+İGÜ MYO-YAZ OKULU DERS NOTLARI
